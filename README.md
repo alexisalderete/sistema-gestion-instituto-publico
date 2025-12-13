@@ -9,6 +9,8 @@ El proyecto fue desarrollado como **solución real en producción** para una ins
 
 > ⚠️ **Nota:** El código fuente se mantiene **privado por motivos de confidencialidad**, pero puede ser revisado durante una entrevista técnica.
 
+<img width="1906" height="929" alt="image" src="https://github.com/user-attachments/assets/39fd1e28-63a5-4a67-b05c-1d19d98c4441" />
+
 ---
 
 ## Funcionalidades Principales
