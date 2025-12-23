@@ -2,10 +2,12 @@
 
 ## Descripción
 
-Sistema web de gestión institucional desarrollado bajo el patrón **MVC**, orientado a la administración integral de un instituto educativo.
+Sistema web de gestión institucional desarrollado bajo el patrón **MVC**, orientado a la administración de un instituto educativo.
 El sistema permite gestionar estudiantes, docentes, cursos, inscripciones, pagos, facturación y reportes contables, optimizando los procesos administrativos y financieros de la institución.
 
 El proyecto fue desarrollado como **solución real en producción** para una institución educativa.
+
+Probar versión demo: https://citicpy.com/sistema-demo/
 
 > ⚠️ **Nota:** El código fuente se mantiene **privado por motivos de confidencialidad**, pero puede ser revisado durante una entrevista técnica.
 
@@ -15,14 +17,14 @@ El proyecto fue desarrollado como **solución real en producción** para una ins
 
 ## Funcionalidades Principales
 
-### 📚 Gestión Académica
+### Gestión Académica
 
 * Gestión de estudiantes, docentes y cursos
 * Inscripciones a cursos
 * Control de cuotas y pagos
 * Administración de sedes
 
-### 💰 Gestión Financiera
+### Gestión Financiera
 
 * Registro de pagos
 * Facturación autoimpresa (Paraguay)
@@ -30,14 +32,14 @@ El proyecto fue desarrollado como **solución real en producción** para una ins
 * Libro de compras
 * Gestión de productos y proveedores
 
-### 📊 Reportes
+### Reportes
 
 * Generación de reportes en **PDF**
 * Exportación de reportes en **Excel**
 * Reportes de pagos realizados
 * Reportes contables y administrativos
 
-### 🔐 Seguridad y Control
+### Seguridad y Control
 
 * Autenticación de usuarios
 * Gestión de usuarios y roles
